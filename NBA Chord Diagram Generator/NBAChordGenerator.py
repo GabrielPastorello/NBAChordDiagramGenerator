@@ -190,7 +190,9 @@ seasons = ["2013-14",
            "2018-19",
            "2019-20",
            "2020-21",
-           "2021-22"] # All seasons with valid data
+           "2021-22",
+           "2022-23",
+           "2023-24"] # All seasons with valid data
 
 clicked = StringVar()
 clicked.set(all_teams[0])
